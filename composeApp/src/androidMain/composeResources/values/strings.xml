@@ -1,0 +1,11 @@
+<!-- strings.xml -->
+<resources>
+
+    <string name="sane_force_task">Sane Force Task</string>
+    <string name="save">Save</string>
+    <string name="delete">DELETE</string>
+    <string name="amount">Amount</string>
+    <string name="rate">Enter The Rate</string>
+
+</resources>
+
